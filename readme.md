@@ -50,3 +50,8 @@ For every stage
         Add cell to neighbours table
   Return the new neigbhour table and alive cells set
 ```
+
+## TODO
+[] Visualize the result
+[] Add propper input command (generation, template, etc)
+[] Have neighbour generation for alive cell
